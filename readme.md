@@ -21,6 +21,8 @@ If you think that these can be improved in anyway, please do suggest.
 
 ![Frontend Roadmap](./images/frontend.png?fix=531)
 
+- [] Data Structures
+
 ## Back-end Roadmap
 
 ![Back-end Roadmap](./images/backend.png)
